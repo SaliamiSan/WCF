@@ -11,6 +11,9 @@ namespace WCF.TestConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git!");
+            //SOLID
+            //Unity, Ninject
+            //WCF(B:BussinessAssembly.dll; D: Dal.dll) - PersonService/RepsonWorker - Repository - Ado.Net/EF/Disk
         }
     }
 }
